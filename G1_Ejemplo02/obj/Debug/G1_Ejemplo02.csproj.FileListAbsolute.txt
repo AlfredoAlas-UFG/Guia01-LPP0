@@ -1,0 +1,10 @@
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\bin\Debug\G1_Ejemplo02.exe.config
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\bin\Debug\G1_Ejemplo02.exe
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\bin\Debug\G1_Ejemplo02.pdb
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.csproj.AssemblyReference.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.frmVentana.resources
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.Properties.Resources.resources
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.csproj.GenerateResource.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.exe
+C:\ProyectosPersonales\LPP0\G1_Ejemplo02\obj\Debug\G1_Ejemplo02.pdb

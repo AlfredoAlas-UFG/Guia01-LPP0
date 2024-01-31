@@ -1,0 +1,9 @@
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\bin\Debug\G1_Ejemplo05.exe.config
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\bin\Debug\G1_Ejemplo05.exe
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\bin\Debug\G1_Ejemplo05.pdb
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.csproj.AssemblyReference.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.Properties.Resources.resources
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.csproj.GenerateResource.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.csproj.CoreCompileInputs.cache
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.exe
+C:\ProyectosPersonales\LPP0\G1_Ejemplo05\obj\Debug\G1_Ejemplo05.pdb
